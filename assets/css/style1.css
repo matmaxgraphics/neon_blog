@@ -17,7 +17,11 @@ a{
 a:hover{
 	color: #ff9907;
 	transition: 0.3s;
-	}
+}
+button{
+	font-size: 16px;
+	font-family: 'Nunito Sans', sans-serif;
+}
 
 .btn{
 	padding: .5rem 1rem;
